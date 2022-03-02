@@ -2,7 +2,6 @@
 
 - 💻 Cursando 2 semestre de Ciências da Computação na UFABC
 - 🔭 Hoje trabalho com front-end e back-end
-- 🌱 Estudando Typescript
 - 📩 contate-me no email: carlosdanielrocha1234@gmail.com
 
 <div align="center">
