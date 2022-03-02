@@ -1,5 +1,4 @@
-### Olá! Eu sou o Carlos Rodrigues👨‍💻
- ##
+## Olá, eu sou o Carlos👨‍💻
 
 - 💻 Cursando 2 semestre de Ciências da Computação na UFABC
 - 🔭 Hoje trabalho com front-end e back-end
