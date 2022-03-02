@@ -1,4 +1,4 @@
-### Olá! Eu sou o Carlos Rodrigues
+### Olá! Eu sou o Carlos Rodrigues👨‍💻
  ##
 
 - 💻 Cursando 2 semestre de Ciências da Computação na UFABC
